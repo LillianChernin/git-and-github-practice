@@ -1,1 +1,1 @@
-window.onload = function(){ var button = document.getElementById("button-yellow"); button.addEventListener("click", function(event){ prompt('Join Our Mailing List'); button.innerHTML = "Thanks for your email!" }); }
+window.onload = function(){ var button = document.getElementById("button-yellow"); button.addEventListener("click", function(event){ prompt('Gimme yo email address'); button.innerHTML = "Thanks for your email!" }); }
